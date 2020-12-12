@@ -2,7 +2,7 @@
 
 ## Summary
 
-*Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, the TypeScript compiler and the Angular-cli preinstalled.*
+*Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, the TypeScript compiler and the Angular CLI preinstalled.*
 
 | Metadata | Value |  
 |----------|-------|
@@ -58,15 +58,3 @@ Just follow these steps:
 3. After following step 2 or 3, the contents of the `.devcontainer` folder in your project can be adapted to meet your needs.
 
 4. Finally, press <kbd>F1</kbd> and run **Remote-Containers: Reopen Folder in Container** to start using the definition.
-
-## Testing the definition
-
-This definition includes some test code that will help you verify it is working as expected on your system. Follow these steps:
-
-1. If this is your first time using a development container, please follow the [getting started steps](https://aka.ms/vscode-remote/containers/getting-started) to set up your machine.
-2. Clone this repository.
-3. Start VS Code, press <kbd>F1</kbd>, and select **Remote-Containers: Open Folder in Container...**
-4. Select the `containers/typescript-node` folder.
-5. After the folder has opened in the container, press <kbd>F5</kbd> to start the project. This will automatically run `npm install` and compile the source before starting it.
-6. Once the project is running, press <kbd>F1</kbd> and select **Remote-Containers: Forward Port from Container...**
-7. Select port 3000 and click the "Open Browser" button in the notification that appears.
