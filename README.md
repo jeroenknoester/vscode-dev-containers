@@ -1,2 +1,3 @@
 # vscode-dev-containers
-A repository of development container definitions for the VS Code Remote and documentation
+
+A repository with documentation and examples for working with VS Code container development
